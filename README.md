@@ -10,6 +10,8 @@ Mostra informações sobre o seu ip
 
 myip.com (https://www.myip.com/api-docs/)
 
-# Foto
+# Foto da Aplicação
+
+OBS.: Por questões de segurança, omiti o meu IP.  
 
 ![Foto da aplicação](/src/assets/capa.png)
